@@ -1,0 +1,18 @@
+
+  #menu{
+      padding:0%;
+      letter-spacing: 3px;
+      grid-row: auto: skyblue;
+      display: inline-flex;
+      grid-column: 1fr 1fr;
+
+    }
+    .submenu{
+      word-spacing: 20%;
+      border-right: 0%;
+      margin-top: 15px;
+      vertical-align: middle;
+    }
+    h1{
+      margin-top: 0px;
+    }
