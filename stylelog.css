@@ -1,0 +1,35 @@
+
+body{
+  background-image: url(sunrise.jpg);
+  color: white;
+}
+.menu{
+    position: absolute;
+    width: 55px;
+    height: 1000px;
+    top: 0px;
+    left: 0px;
+    margin: 0;
+    padding: 0;
+    background-color: hsla(74, 0%, 0%, 0.5);
+    position: fixed;
+    z-index: 0;
+}
+h3{
+  font-size: 30px;
+  position: relative;
+  top: 50px;
+  left: 200px;
+}
+p{
+  position: relative;
+  top: 70px;
+  left: 300px;
+}
+img{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  position: fixed;
+  z-index: 5;
+}
